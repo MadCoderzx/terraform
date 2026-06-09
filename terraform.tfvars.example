@@ -1,0 +1,7 @@
+# Copy this file to terraform.tfvars and fill in your values
+
+region        = "your-region"
+instance_type = "your_instance_type"
+instance_name = "your_instance_name"
+key_pair_name = "your-key-pair-name-here"
+bucket_name   = "unique-bucket-name-12345"  # Must be globally unique
