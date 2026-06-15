@@ -1,5 +1,11 @@
 # Terraform AWS Infrastructure Project
 
+**Intern ID:** CITS706  
+**Intern Name:** Mohammad Arif  
+**Duration:** 1 Week  
+**Project Name:** Infrastructure as Code (Terrafrom)  
+**Project Scope:** Dockerized Web Application  
+
 ## What is Terraform?
 
 Terraform is an open-source Infrastructure as Code (IaC) tool developed by HashiCorp. It allows you to safely and predictably create, change, and improve infrastructure resources by defining them in configuration files. Think of Terraform as the automation engine for your cloud infrastructure - instead of manually clicking through cloud provider consoles, you write code to describe your entire infrastructure.
