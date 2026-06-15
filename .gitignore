@@ -9,6 +9,7 @@ terraform.tfvars
 .idea/
 *.swp
 *.swo
+*.pem
 
 # OS
 .DS_Store

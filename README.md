@@ -351,5 +351,12 @@ For infrastructure changes:
 
 ---
 
-*Last Updated: 2026-06-09*
+## Screenshots
+| Init | Plan |
+|-------|-----------|
+| ![Init](screenshots/init.png) | ![Plan](screenshots/plan.png) |
+
+| Apply | Connect |
+|-------|-----------|
+| ![Apply](screenshots/apply.png) | ![Connect](screenshots/connect.png) |
  
